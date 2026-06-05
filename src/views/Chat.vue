@@ -18,7 +18,7 @@
 </template>
 
 <script>
-import HistorySidebar from '../components/HistorySidebar.vue'
+import HistorySidebar from '../components/historysidebar.vue'
 export default {
   components: { HistorySidebar },
   data() {
